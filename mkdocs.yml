@@ -89,7 +89,7 @@ nav:
 
   - Linux:
       - Overview: linux/index.md
-      - Linux Commands: resources/linux-commands.md
+      - Linux Commands: commands.md
 
   - Projects:
       - Overview: projects/index.md
