@@ -1,4 +1,4 @@
-# Giovanni's Cybersecurity Notes
+# noticso's Cybersecurity Notes
 
 Welcome to my hands-on cybersecurity learning notes.
 
