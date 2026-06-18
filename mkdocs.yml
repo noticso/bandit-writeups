@@ -1,9 +1,10 @@
-site_name: noticso's Cybersecurity Notes
-site_description: Hands-on Linux and cybersecurity learning notes
+site_name: noticso | Cybersecurity Learning Journey
+site_description: Notes, walkthroughs, labs, projects, and cybersecurity learning resources
 site_author: noticso
-site_url: "https://noticso.github.io/bandit-writeups/"
-repo_name: noticso/bandit-writeups
-repo_url: https://github.com/noticso/bandit-writeups
+site_url: "https://noticso.github.io/"
+
+repo_name: noticso/noticso.github.io
+repo_url: https://github.com/noticso/noticso.github.io
 
 theme:
   name: material
