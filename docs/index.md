@@ -1,27 +1,46 @@
-# noticso's Cybersecurity Notes
+# Cybersecurity Learning Journey
 
-Welcome to my hands-on cybersecurity learning notes.
+Welcome to my personal cybersecurity learning space.
 
-This website documents my progress through Linux fundamentals, command-line tools, networking concepts, and authorized training labs. The first section contains my walkthroughs for **OverTheWire Bandit**, a Linux-focused wargame designed for beginners.
+This website documents my hands-on progress through Linux, networking, cybersecurity fundamentals, authorized labs, technical writeups, and personal projects.
+
+My goal is to build practical skills, understand how systems work, and create clear technical documentation along the way.
 
 !!! info "Educational purpose"
-    These notes are written for learning and documentation. All commands and techniques shown here were used only in authorized practice environments.
+Everything published on this website is intended for learning, practice, and authorized environments only.
 
 ## What you will find here
 
-- Clear explanations of Linux commands
-- Step-by-step Bandit walkthroughs
-- Short explanations of the reasoning behind each solution
-- Practical takeaways that can be reused in future labs
+* Linux notes and command-line practice
+* Cybersecurity walkthroughs and lab writeups
+* OverTheWire Bandit solutions
+* Networking concepts and service enumeration notes
+* Homelab and dual boot documentation
+* Future TryHackMe and Hack The Box learning notes
+* Useful commands, tools, and cheat sheets
+* Personal cybersecurity projects
 
-## Current learning path
+## Current Learning Path
 
-- [x] OverTheWire Bandit — Levels 0 to 20
-- [ ] Linux command-line fundamentals
-- [ ] Networking and service enumeration
-- [ ] Web security labs
-- [ ] Home lab documentation
+* [x] OverTheWire Bandit — Levels 0 to 20
+* [ ] Linux fundamentals
+* [ ] Networking basics
+* [ ] Dual boot setup: Windows 11 and Linux
+* [ ] Cybersecurity homelab
+* [ ] TryHackMe learning paths
+* [ ] Web security fundamentals
+* [ ] Python scripting for cybersecurity
 
-## Navigate the site
+## Featured Section
 
-Use the navigation menu to open the Bandit walkthroughs or the Linux command reference.
+### OverTheWire Bandit
+
+Bandit is a Linux-based wargame designed for beginners. It is a practical way to learn commands, permissions, file enumeration, SSH, networking basics, encoding, and simple troubleshooting.
+
+[Open the Bandit walkthroughs](bandit/)
+
+## Why This Site Exists
+
+I created this website to keep my notes organized, improve my technical writing in English, and build a public record of my cybersecurity learning journey.
+
+The content will grow over time as I complete new labs, document projects, learn new tools, and explore different areas of cybersecurity.
