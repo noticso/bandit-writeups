@@ -1,0 +1,85 @@
+site_name: Giovanni's Cybersecurity Notes
+site_description: Hands-on Linux and cybersecurity learning notes
+site_author: Giovanni D'Agostino
+site_url: ""
+repo_name: bandit-writeups
+
+theme:
+  name: material
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.top
+    - navigation.footer
+    - content.code.copy
+    - content.code.annotate
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Bandit Walkthroughs:
+      - Overview: bandit/index.md
+      - Level 0 → Level 1: bandit/level-00-to-01.md
+      - Level 1 → Level 2: bandit/level-01-to-02.md
+      - Level 2 → Level 3: bandit/level-02-to-03.md
+      - Level 3 → Level 4: bandit/level-03-to-04.md
+      - Level 4 → Level 5: bandit/level-04-to-05.md
+      - Level 5 → Level 6: bandit/level-05-to-06.md
+      - Level 6 → Level 7: bandit/level-06-to-07.md
+      - Level 7 → Level 8: bandit/level-07-to-08.md
+      - Level 8 → Level 9: bandit/level-08-to-09.md
+      - Level 9 → Level 10: bandit/level-09-to-10.md
+      - Level 10 → Level 11: bandit/level-10-to-11.md
+      - Level 11 → Level 12: bandit/level-11-to-12.md
+      - Level 12 → Level 13: bandit/level-12-to-13.md
+      - Level 13 → Level 14: bandit/level-13-to-14.md
+      - Level 14 → Level 15: bandit/level-14-to-15.md
+      - Level 15 → Level 16: bandit/level-15-to-16.md
+      - Level 16 → Level 17: bandit/level-16-to-17.md
+      - Level 17 → Level 18: bandit/level-17-to-18.md
+      - Level 18 → Level 19: bandit/level-18-to-19.md
+      - Level 19 → Level 20: bandit/level-19-to-20.md
+      - Level 20 → Level 21: bandit/level-20-to-21.md
+  - Linux Command Reference: commands.md
+  - About: about.md
