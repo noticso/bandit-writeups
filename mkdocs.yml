@@ -89,6 +89,7 @@ nav:
 
   - Linux:
       - Overview: linux/index.md
+      - Windows 11 and Ubuntu Dual Boot: linux/windows-11-ubuntu-dual-boot.md
       - Linux Commands: commands.md
 
   - Projects:
