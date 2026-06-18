@@ -1,4 +1,4 @@
-# Giovanni's Cybersecurity Notes
+# noticso's Cybersecurity Notes
 
 A free documentation website built with **MkDocs Material** and designed for publication on **GitHub Pages**.
 
