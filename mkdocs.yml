@@ -1,8 +1,9 @@
-site_name: Giovanni's Cybersecurity Notes
+site_name: noticso's Cybersecurity Notes
 site_description: Hands-on Linux and cybersecurity learning notes
-site_author: Giovanni D'Agostino
-site_url: ""
-repo_name: bandit-writeups
+site_author: noticso
+site_url: "https://noticso.github.io/bandit-writeups/"
+repo_name: noticso/bandit-writeups
+repo_url: https://github.com/noticso/bandit-writeups
 
 theme:
   name: material
